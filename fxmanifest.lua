@@ -1,7 +1,14 @@
--- Generated with Durty Cloth Tool v3.2.0.5 (https://gta.clothing)
-
+author 'Kap'
+description 'Kap Custom Clothing Pack V4'
+version '1.0.0'
+lua54 'yes'
 fx_version 'cerulean'
 game { 'gta5' }
+
+server_scripts {
+    'server.lua',
+}
+
 
 files {
   'mp_m_freemode_01_mp_m_KCPv4_shop.meta',
